@@ -1,5 +1,5 @@
 # Hate Speech Classification (DL + Embedding Layer)
-This project focuses on multi-class classification to determine whether they contain hate speech, offensive language, or neither. It uses deep learning techniques such as Conv1D with an embedding layer that is trained on the dataset 
+This project focuses on multi-class classification to determine whether they contain hate speech, offensive language, or neither. It uses deep learning techniques such as Conv1D with an embedding layer that is trained on the dataset
 
 ## 🗂️ Dataset 
 - Source: [Hate Speech Dataset](https://github.com/troyhunterz/hatespeech-classification/tree/main/dataset)
